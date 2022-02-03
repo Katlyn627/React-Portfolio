@@ -117,7 +117,7 @@
         {
           "title":"Coding-Quiz",
           "shorttitle": "Code Quiz",
-          "category":"",
+          "category":"Acedemic Project",
           "image":"code-quiz.png",
           "info":"This quiz asks the user a series of questions about javascript and times how long it takes to answer them all, then saves your high score!",
           "url":"https://katlyn627.github.io/Coding-Quiz-Challenge/",
