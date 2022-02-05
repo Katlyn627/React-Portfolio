@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 import ParticlesBg  from "particles-bg";
 
 class Header extends Component {
+   
   render() {
+
 
     if(this.props.data){
        var project = this.props.data.project;
@@ -19,7 +21,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-      <ParticlesBg type="cobweb" bg={true} />
+      <ParticlesBg type="circle"  bg={true} />
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
