@@ -1,7 +1,7 @@
 //header will go here
 import "./style.css";
 import React from "react";
-import Hero from "./images/headshot.jpg"
+import Hero from "./images/linked in background.png"
 
 function HeroImage() {
     return (

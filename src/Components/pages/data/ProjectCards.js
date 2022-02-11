@@ -17,14 +17,14 @@
     {
         "id": 3,
         "cardname": "Couch Camp",
-        "image": "",
+        "image": "/src/components/images/couch camp logo.png",
         "livelink": "",
         "codelink": ""
     },
     {
         "id": 4,
         "cardname": "Coding Quiz",
-        "image": "",
+        "image": "/src/components/images/code-quiz.png",
         "livelink": "",
         "codelink": "https://github.com/Katlyn627/Coding-Quiz-Challenge "
     },
