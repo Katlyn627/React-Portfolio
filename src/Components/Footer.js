@@ -1,34 +1,19 @@
-import React, { Component } from 'react';
+//footer will go here
+import "./styles.css";
+import React from "react";
 
-class Footer extends Component {
-  render() {
-
-    if(this.props.data){
-      var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url} target="_blank"><i className={network.className}></i></a></li>
-      })
-    }
-
+function FooterInfo() {
     return (
-      <footer>
-
-     <div className="row">
-        <div className="twelve columns">
-           <ul className="social-links">
-              {networks}
-           </ul>
-
-           <ul className="copyright">
-              <li>&copy; Copyright 2022</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Katlyn Boches</a></li>
-           </ul>
-
-        </div>
-        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
-     </div>
-  </footer>
+    <div>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <div className="bg-dark text-white fixed-bottom footer mt-auto py-3">
+    <span className="text-muted">Built for University of Denver Coding Bootcamp. Right reserved under the MIT License</span>
+    </div>
+    </div>
     );
-  }
 }
 
-export default Footer;
+export default FooterInfo;
