@@ -1,7 +1,7 @@
 //header will go here
 import "./styles.css";
 import React from "react";
-import profile_pic from "./images/profile_pic.jpg"
+import profile_pic from "./images/linked in background.png"
 
 function HeaderInfo() {
     return (
