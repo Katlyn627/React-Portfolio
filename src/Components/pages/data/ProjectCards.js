@@ -1,15 +1,16 @@
+// eslint-disable-next-line no-unused-expressions
 [
     {
       "id": 1,
       "cardname": "Marvel Comic App",
-      "image": "",
+      "image": "/src/components/images/signup page.jpg",
       "livelink": "",
       "codelink": ""
     },
     {
         "id": 2,
         "cardname": "Bright Ideas",
-        "image": "",
+        "image": "/src/components/images/login-page.png",
         "livelink": "",
         "codelink": ""
     },
