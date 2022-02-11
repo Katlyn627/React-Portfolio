@@ -1,9 +1,9 @@
 import React from "react";
 import github_icon from "../images/github_icon.svg";
 import linkedIn_icon from "../images/linkedin_icon.png";
-import email_icon from "../images";
-import pdfIcon from "../images";
-import Resume from "../images";
+import email_icon from "../images/email_icon.png";
+import pdfIcon from "../images/833px-PDF_file_icon.png";
+import Resume from "../images/Resume 2022.pdf";
 
 function Contact(props) {
   return (
