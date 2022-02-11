@@ -1,6 +1,6 @@
 import React, { Component} from "react";
-import Cards from "./data/projectCards.json";
-import "../styles.css";
+import Cards from "./data//ProjectCards";
+// import "../styles.css";
 
 class Projects extends Component {
   render () {

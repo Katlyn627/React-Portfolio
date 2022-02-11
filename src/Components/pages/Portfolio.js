@@ -1,6 +1,6 @@
 import React, { Component} from "react";
-import Cards from "./data/portfolioCards.json";
-import "../styles.css";
+import Cards from "./data/PortfolioCards";
+// import "../style.css";
 
 class Portfolio extends Component {
   render () {
