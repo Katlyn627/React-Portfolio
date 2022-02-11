@@ -1,6 +1,44 @@
-# Getting Started with Create React App
+## **React Portfolio**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## **Images/GIF's of Project**
+
+![README image](https://user-images.githubusercontent.com/86095070/153683626-e8d10587-edac-457b-90f8-8381192785c7.png)
+
+
+## **Description**
+A portfolio using react to showcase my work and contact information
+
+## **Table of Contents**
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [License](#license)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [Questions](#questions)
+
+## **Installation**
+To install this project with necessary dependencies run the following command:
+install
+
+## **Usage**
+ To create a React app
+
+## **License** 
+This project is licensed under the MIT license.
+
+## **Contributing**
+ Katlyn Boches
+
+## **Tests**
+To run tests, run the following command:
+test
+
+## **Questions**
+If you have any questions about this repo, open an issue or contact me directly at: [katlynboches@gmail.com](mailto:katlynboches@gmail.com). You can find more of my work at [Katlyn627](https://www.github.com/Katlyn627).
+
+## **Deployment** 
+
+Github: You can find the deployment link at [Katlyn627](https://www.github.com/Katlyn627).
 
 ## Available Scripts
 
