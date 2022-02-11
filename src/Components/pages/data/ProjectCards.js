@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "cardname": "Marvel COmic App",
+      "cardname": "Marvel Comic App",
       "image": "",
       "livelink": "",
       "codelink": ""
@@ -25,7 +25,7 @@
         "cardname": "Coding Quiz",
         "image": "",
         "livelink": "",
-        "codelink": ""
+        "codelink": "https://github.com/Katlyn627/Coding-Quiz-Challenge "
     },
     {
         "id": 5,
