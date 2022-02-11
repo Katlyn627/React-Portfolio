@@ -1,60 +1,27 @@
-import React, { Component } from 'react';
-import ReactGA from 'react-ga';
-import $ from 'jquery';
-import './index.css';
-import './App.css';
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import About from './Components/About';
-import Resume from './Components/Resume';
-import Contact from './Components/Contact';
-import Portfolio from './Components/Portfolio';
+import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import NavTabs from "./components/NavTabs";
+import Home from "./components/pages/Home";
+import Portfolio from "./components/pages/Portfolio";
+import Projects from "./components/pages/Projects";
+import Contact from "./components/pages/Contact";
+import HeroImage from "./components/HeroImage";
+import FooterInfo from "./components/FooterInfo"
 
-class App extends Component {
-
-  constructor(props){
-    super(props);
-    this.state = {
-      foo: 'bar',
-      resumeData: {}
-    };
-
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
-
-  }
-
-  getResumeData(){
-    $.ajax({
-      url:'./resumeData.json',
-      dataType:'json',
-      cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
-      }.bind(this),
-      error: function(xhr, status, err){
-        console.log(err);
-        alert(err);
-      }
-    });
-  }
-
-  componentDidMount(){
-    this.getResumeData();
-  }
-
-  render() {
-    return (
-      <div className="App">
-        <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
-        <Contact data={this.state.resumeData.main} repos={this.state.resumeData.portfolio}/>
-        <Footer data={this.state.resumeData.main}/>
+function App() {
+  return (
+    <Router basename={ process.env.PUBLIC_URL }>
+      <div>
+        <HeroImage/>
+        <NavTabs />
+        <Route exact path="/" component={Home} />
+        <Route exact path="/Portfolio" component={Portfolio} />
+        <Route exact path="/Projects" component={Projects} />
+        <Route path="/contact" component={Contact} />
+        <FooterInfo/>
       </div>
-    );
-  }
+    </Router>
+  );
 }
 
 export default App;
