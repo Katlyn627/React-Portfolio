@@ -1,6 +1,6 @@
 import React, { Component} from "react";
-import Cards from "./data//ProjectCards";
-import "../style.css";
+import Cards from "./data/ProjectCards";
+import "../Container/style.css";
 
 class Projects extends Component {
   render () {
