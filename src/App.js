@@ -16,7 +16,7 @@ function App() {
         <NavTabs />
         <Route exact path="/" component={Home} />
         <Route exact path="/src/Components/pages/Portfolio.js" component={Portfolio} />
-        <Route exact path="/Projects" component={Projects} />
+        <Route exact path="/src/Components/pages/Projects.js" component={Projects} />
         <Route path="/contact" component={Contact} />
         <FooterInfo/>
       </div>
