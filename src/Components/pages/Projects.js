@@ -1,12 +1,12 @@
-import React, { Component} from "react";
+import React, {} from "react";
 import Cards from "./data/ProjectCards";
 import "../Container/style.css";
 
-class Projects extends Component {
-  render () {
+function Projects() {
     return (
       <div>
         <br/>
+        <>"string"</>
         <h2 className="moreLeft">Web Development Projects</h2>
         {Cards.map ((cardDetail, index) => {
           return <div key={index}>
@@ -22,6 +22,6 @@ class Projects extends Component {
       </div>
     )
   }
-}
+
 
 export default Projects;
