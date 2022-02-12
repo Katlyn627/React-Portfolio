@@ -12,7 +12,7 @@
         "cardname": "Bright Ideas",
         "image": "/src/components/images/login-page.png",
         "livelink": "",
-        "codelink": ""
+        "codelink": "https://github.com/EMtheDM/BrightIdeas"
     },
     {
         "id": 3,
