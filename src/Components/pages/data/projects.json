@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Bright Ideas",
-      "images": "login-page.png",
+      "image": "login-page.png",
       "project": "Project Management App",
       "url": "https://gentle-wildwood-55104.herokuapp.com/",
       "github": "https://github.com/EMtheDM/BrightIdeas"
@@ -10,41 +10,41 @@
     {
       "id": 2,
       "name": "Couch Camp",
-      "images": "../../../assets/couch camp logo.png",
+      "image": "../../../assets/couch camp logo.png",
       "project": "Group Project",
       "location": "https://florenciab94.github.io/Couch-Camp/",
-      "github": "https://github.com/EMtheDM/BrightIdeas"
+      "github": "https://github.com/FlorenciaB94/Couch-Camp"
     },
     {
       "id": 3,
       "name": "Sike-Hike",
-      "images": "",
+      "image": "",
       "project": "Hiking App",
       "location": "https://github.com/Katlyn627/Sike-Hike/",
-      "github": "https://github.com/EMtheDM/BrightIdeas"
+      "github": "https://github.com/Katlyn627/Sike-Hike"
     },
     {
       "id": 4,
       "name": "Code Quiz",
-      "images": "",
+      "image": "",
       "project": "A Coding Bootcamp resource",
       "location": "https://katlyn627.github.io/Coding-Quiz-Challenge/",
-      "github": "https://github.com/EMtheDM/BrightIdeas"
+      "github": "https://github.com/Katlyn627/Coding-Quiz-Challenge"
     },
     {
       "id": 5,
       "name": "Weather Dashboard",
-      "images": "",
+      "image": "",
       "project": "A Weather Tracking App",
-      "location": "",
-      "github": "https://github.com/EMtheDM/BrightIdeas"
+      "location": "https://katlyn627.github.io/Weather-Dashboard/",
+      "github": "https://github.com/Katlyn627/Weather-Dashboard"
     },
     {
       "id": 6,
       "name": "Work Day Scheduler",
-      "images": "",
+      "image": "",
       "project": "A Daily Agenda",
-      "location": "",
-      "github": "https://github.com/EMtheDM/BrightIdeas"
+      "location": "https://katlyn627.github.io/Work-Day-Scheduler/",
+      "github": "https://github.com/Katlyn627/Work-Day-Scheduler"
     }
   ]

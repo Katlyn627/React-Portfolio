@@ -19,7 +19,7 @@ function ProjectsCard(props) {
                         <strong>Project:</strong> {props.project}
                     </li>
                     <li>
-                        <strong>Demo:</strong> {props.url}
+                        <strong>Demo:</strong> {props.location}
                     </li>
                     <li>
                         <strong>Github:</strong> {props.github}
