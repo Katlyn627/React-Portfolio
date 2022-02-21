@@ -1,5 +1,4 @@
 import React, {} from "react";
-
 import ProjectsCard from "../ProjectsCard";
 import projects from "../pages/data/projects.json";
 

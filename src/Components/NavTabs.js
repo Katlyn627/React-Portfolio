@@ -11,9 +11,10 @@ function NavTabs() {
           Home
         </Link>
       </li>
+
       <li className="nav-item">
         <Link
-          to="/src/Components/pages/Projects.js"
+          to="/Projects"
           className={location.pathname === "/Projects" ? "nav-link active" : "nav-link"}
         >
           Projects
