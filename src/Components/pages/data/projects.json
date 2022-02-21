@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Bright Ideas",
+      "image": "/src/assets/login-page.png",
+      "project": "Project Management App",
+      "location": "https://gentle-wildwood-55104.herokuapp.com/",
+      "github": "https://github.com/EMtheDM/BrightIdeas"
+    },
+    {
+      "id": 2,
+      "name": "Couch Camp",
+      "image": "/src/assets/images/code-quiz.png",
+      "project": "Group Project",
+      "location": ""
+    },
+    {
+      "id": 3,
+      "name": "Sike-Hike",
+      "image": "/src/assets/images/code-quiz.png",
+      "project": "Random Password generator",
+      "location": "https://jamierachael.github.io/Password-Generator/"
+    },
+    {
+      "id": 4,
+      "name": "Code Quiz",
+      "image": "src/assets/images/code-quiz.png",
+      "project": "A Coding Bootcamp resource",
+      "location": "https://dvega920.github.io/Survivor-Bootcamp-edition/"
+    },
+    {
+      "id": 5,
+      "name": "Weather Dashboard",
+      "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/weather-dashboard.png?raw=true",
+      "project": "A Weather Tracking App",
+      "location": "https://jamierachael.github.io/Weather-Dashboard/"
+    },
+    {
+      "id": 6,
+      "name": "Work Day Scheduler",
+      "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Work-Day-Scheduler.png?raw=true",
+      "project": "A Daily Agenda",
+      "location": "https://jamierachael.github.io/Day-Planner/"
+    }
+  ]
