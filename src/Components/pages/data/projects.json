@@ -12,21 +12,21 @@
       "name": "Couch Camp",
       "image": "../../../assets/couch camp logo.png",
       "project": "Group Project",
-      "location": ""
+      "location": "https://florenciab94.github.io/Couch-Camp/"
     },
     {
       "id": 3,
       "name": "Sike-Hike",
       "image": "",
-      "project": "Random Password generator",
-      "location": "https://jamierachael.github.io/Password-Generator/"
+      "project": "Hiking App",
+      "location": "https://github.com/Katlyn627/Sike-Hike/"
     },
     {
       "id": 4,
       "name": "Code Quiz",
       "image": "src/assets/images/code-quiz.png",
       "project": "A Coding Bootcamp resource",
-      "location": ""
+      "location": "https://katlyn627.github.io/Coding-Quiz-Challenge/"
     },
     {
       "id": 5,
