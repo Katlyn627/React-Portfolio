@@ -1,6 +1,6 @@
 import React from "react";
 import "../style.css";
-import profile_pic from "../images/headshot.jpg";
+import profile_pic from "../assets/profilepic.jpg";
 
 function Home() {
   return (

@@ -71,7 +71,7 @@ height: 400px;;
 }
 
 body {
-  background-image: url("assets/images/background-image.jpg"); /* The image used */
+  background-image: url("../src/Components/assets/background-image.jpg"); /* The image used */
   background-color: #cccccc; /* Used if the image is unavailable */
   min-height: 1300px; /* You must set a specified height */
   background-position: center; /* Center the image */

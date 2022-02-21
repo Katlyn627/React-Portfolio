@@ -1,9 +1,9 @@
 import React from "react";
-import github_icon from "/src/assets/github_icon.png";
-import linkedIn_icon from "/src/assets/linked in background.png";
-import email_icon from "/src/assets/email_icon.png";
-import pdfIcon from "/src/assets/833px-PDF_file_icon.png";
-import Resume from "/src/assets/";
+import github_icon from "../assets/GitHub-Mark-64px.png";
+import linkedIn_icon from "../assets/linked in background.png";
+import email_icon from "../assets/email_icon.png";
+import pdfIcon from "../assets/833px-PDF_file_icon.png";
+import Resume from "../assets/Resume 2022.pdf";
 
 function Contact(props) {
   return (

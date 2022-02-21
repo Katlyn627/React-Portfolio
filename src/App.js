@@ -14,8 +14,8 @@ function App() {
         <HeroImage/>
         <NavTabs />
         <Route exact path="/" component={Home} />
-        <Route exact path="/src/Components/pages/Projects.js" component={Projects} />
-        <Route path="/contact" component={Contact} />
+        <Route exact path="../src/Components/pages/Projects.js" component={Projects} />
+        <Route path="../src/Components/pages/Contact.js" component={Contact} />
         <FooterInfo/>
       </div>
     </Router>

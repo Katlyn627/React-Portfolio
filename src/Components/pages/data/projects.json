@@ -26,20 +26,20 @@
       "name": "Code Quiz",
       "image": "src/assets/images/code-quiz.png",
       "project": "A Coding Bootcamp resource",
-      "location": "https://dvega920.github.io/Survivor-Bootcamp-edition/"
+      "location": ""
     },
     {
       "id": 5,
       "name": "Weather Dashboard",
-      "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/weather-dashboard.png?raw=true",
+      "image": "",
       "project": "A Weather Tracking App",
-      "location": "https://jamierachael.github.io/Weather-Dashboard/"
+      "location": ""
     },
     {
       "id": 6,
       "name": "Work Day Scheduler",
-      "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Work-Day-Scheduler.png?raw=true",
+      "image": "",
       "project": "A Daily Agenda",
-      "location": "https://jamierachael.github.io/Day-Planner/"
+      "location": ""
     }
   ]
