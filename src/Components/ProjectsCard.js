@@ -2,6 +2,7 @@ import React from "react";
 
 
 
+
 function ProjectsCard(props) {
     return (
         <div className="card port-card">
@@ -18,7 +19,7 @@ function ProjectsCard(props) {
                         <strong>Project:</strong> {props.project}
                     </li>
                     <li>
-                        <strong>Demo:</strong> {props.location}
+                        <strong>Demo:</strong> {props.url}
                     </li>
                     <li>
                         <strong>Github:</strong> {props.github}

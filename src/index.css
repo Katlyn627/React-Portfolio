@@ -19,7 +19,7 @@ body {
   border-radius: 2px;
   height: 325px;
   margin: 1rem;
-  position: relative;
+  position:relative;
   width: 325px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
@@ -29,7 +29,7 @@ body {
   height: 100%;
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background: lightcyan;
   padding-top: 10px;
   
 }
@@ -41,7 +41,7 @@ body {
   padding-left: 1rem;
   padding-right: 1rem;
   font-size: 15px;
-  height: 200px;
+  height:fit-content;
   
 }
 
@@ -59,7 +59,7 @@ height: 400px;;
 
 .portfolio-container {
   margin-top: 100px;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 
@@ -102,7 +102,7 @@ body {
 .profile {
   width: 300px;
   height: auto;
-  padding: 15px;
+  padding: 10px;
 }
 
 .resumePNG {
@@ -144,7 +144,7 @@ margin-top: 20px;
 
 .row-home {
  margin-top: 10%;
- margin-left: 33%;
+ margin-left: 10%;
 }
 
 .ome-profile-photo {

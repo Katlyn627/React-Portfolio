@@ -2,44 +2,49 @@
     {
       "id": 1,
       "name": "Bright Ideas",
-      "image": "",
+      "images": "login-page.png",
       "project": "Project Management App",
-      "location": "https://gentle-wildwood-55104.herokuapp.com/",
+      "url": "https://gentle-wildwood-55104.herokuapp.com/",
       "github": "https://github.com/EMtheDM/BrightIdeas"
     },
     {
       "id": 2,
       "name": "Couch Camp",
-      "image": "../../../assets/couch camp logo.png",
+      "images": "../../../assets/couch camp logo.png",
       "project": "Group Project",
-      "location": "https://florenciab94.github.io/Couch-Camp/"
+      "location": "https://florenciab94.github.io/Couch-Camp/",
+      "github": "https://github.com/EMtheDM/BrightIdeas"
     },
     {
       "id": 3,
       "name": "Sike-Hike",
-      "image": "",
+      "images": "",
       "project": "Hiking App",
-      "location": "https://github.com/Katlyn627/Sike-Hike/"
+      "location": "https://github.com/Katlyn627/Sike-Hike/",
+      "github": "https://github.com/EMtheDM/BrightIdeas"
     },
     {
       "id": 4,
       "name": "Code Quiz",
-      "image": "src/assets/images/code-quiz.png",
+      "images": "",
       "project": "A Coding Bootcamp resource",
-      "location": "https://katlyn627.github.io/Coding-Quiz-Challenge/"
+      "location": "https://katlyn627.github.io/Coding-Quiz-Challenge/",
+      "github": "https://github.com/EMtheDM/BrightIdeas"
     },
     {
       "id": 5,
       "name": "Weather Dashboard",
-      "image": "",
+      "images": "",
       "project": "A Weather Tracking App",
-      "location": ""
+      "location": "",
+      "github": "https://github.com/EMtheDM/BrightIdeas"
     },
     {
       "id": 6,
       "name": "Work Day Scheduler",
-      "image": "",
+      "images": "",
       "project": "A Daily Agenda",
-      "location": ""
+      "location": "",
+      "github": "https://github.com/EMtheDM/BrightIdeas"
     }
   ]

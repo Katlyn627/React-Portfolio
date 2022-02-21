@@ -6,6 +6,9 @@
 a {
     color:rgb(207, 220, 233) !important;
 }
+.title{
+    text-align: center;
+}
 
 .contactLink {
     color: navy !important;
@@ -40,7 +43,7 @@ a {
 }
 
 .Wrapper {
-    margin:2.5%;
+    margin:20%;
     padding: 1%;
     width:19%;
     float:left;
@@ -51,7 +54,7 @@ a {
         margin:3%;
         padding: 1%;
         width:24%;
-        float:left;
+        float:center;
         border: thin solid gray;
 }
 
