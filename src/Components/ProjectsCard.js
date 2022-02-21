@@ -32,4 +32,6 @@ function ProjectsCard(props) {
     );
 }
 
+// fixing issues
+
 export default ProjectsCard;
