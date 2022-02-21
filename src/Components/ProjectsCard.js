@@ -20,6 +20,9 @@ function ProjectsCard(props) {
                     <li>
                         <strong>Demo:</strong> {props.location}
                     </li>
+                    <li>
+                        <strong>Github:</strong> {props.github}
+                    </li>
 
                 </ul>
             </div>

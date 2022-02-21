@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Bright Ideas",
-      "image": "/src/assets/login-page.png",
+      "image": "",
       "project": "Project Management App",
       "location": "https://gentle-wildwood-55104.herokuapp.com/",
       "github": "https://github.com/EMtheDM/BrightIdeas"
@@ -10,14 +10,14 @@
     {
       "id": 2,
       "name": "Couch Camp",
-      "image": "/src/assets/images/code-quiz.png",
+      "image": "../../../assets/couch camp logo.png",
       "project": "Group Project",
       "location": ""
     },
     {
       "id": 3,
       "name": "Sike-Hike",
-      "image": "/src/assets/images/code-quiz.png",
+      "image": "",
       "project": "Random Password generator",
       "location": "https://jamierachael.github.io/Password-Generator/"
     },
