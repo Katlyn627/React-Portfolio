@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.acb9feca.css",
+    "main.js": "/react-portfolio/static/js/main.520edbbe.js",
+    "static/media/headshot.jpg": "/react-portfolio/static/media/headshot.645ab02c3cc8d45bdb8f.jpg",
+    "static/media/Resume 2022.pdf": "/react-portfolio/static/media/Resume 2022.2254870333f43c0737a4.pdf",
+    "static/media/linked in background.png": "/react-portfolio/static/media/linked in background.5cc31d6989ebeecdf52b.png",
+    "static/media/833px-PDF_file_icon.png": "/react-portfolio/static/media/833px-PDF_file_icon.1ae7f5b6817cd02b50d5.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.acb9feca.css.map": "/react-portfolio/static/css/main.acb9feca.css.map",
+    "main.520edbbe.js.map": "/react-portfolio/static/js/main.520edbbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb9feca.css",
+    "static/js/main.520edbbe.js"
+  ]
+}
