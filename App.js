@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavTabs from "./Components/NavTabs";
-import Home from "./Components/pages/Home";
-import Projects from "./Components/pages/Projects";
-import Contact from "./Components/pages/Contact";
-import HeroImage from "./Components/HeroImage";
+import NavTabs from "./src/Components/NavTabs";
+import Home from "./src/Components/pages/Home";
+import Projects from "./src/Components/pages/Projects";
+import Contact from "./src/Components/pages/Contact";
+import HeroImage from "./src/Components/HeroImage";
 import FooterInfo from "./Components/FooterInfo"
 
 function App() {
