@@ -1,6 +1,7 @@
 import React from "react";
 import { Navbar } from "react-bootstrap";
 import {NavLink} from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Navigation(props) {
   return (
