@@ -5,46 +5,47 @@
       "image": "https://user-images.githubusercontent.com/86095070/156965541-e5d11d0e-b42a-47fa-a59e-0945a02f9410.png",
       "project": "Project Management App",
       "url": "https://gentle-wildwood-55104.herokuapp.com/",
-      "github": "https://github.com/EMtheDM/BrightIdeas"
+      "github": "https://github.com/EMtheDM/BrightIdeas",
+      "topics": ""
     },
     {
       "id": 2,
       "name": "Couch Camp",
-      "image": "../../../assets/couch camp logo.png",
-      "project": "Group Project",
+      "image": "https://user-images.githubusercontent.com/86095070/156967908-566cdbb2-77c4-4cdc-a42b-32747c169c5c.png",
       "location": "https://florenciab94.github.io/Couch-Camp/",
-      "github": "https://github.com/FlorenciaB94/Couch-Camp"
+      "github": "https://github.com/FlorenciaB94/Couch-Camp",
+      "topics": ""
     },
     {
       "id": 3,
       "name": "Sike-Hike",
       "image": "",
-      "project": "Hiking App",
-      "location": "https://github.com/Katlyn627/Sike-Hike/",
-      "github": "https://github.com/Katlyn627/Sike-Hike"
+      "deploy": "https://github.com/Katlyn627/Sike-Hike/",
+      "github": "https://github.com/Katlyn627/Sike-Hike",
+      "topics": ""
     },
     {
       "id": 4,
       "name": "Code Quiz",
-      "image": "https://user-images.githubusercontent.com/86095070/156965453-63304e78-2346-493b-b2c8-ea12fb44bcde.png",
-      "project": "A Coding Bootcamp resource",
-      "location": "https://katlyn627.github.io/Coding-Quiz-Challenge/",
-      "github": "https://github.com/Katlyn627/Coding-Quiz-Challenge"
+      "image": "https://user-images.githubusercontent.com/86095070/156967890-63f422e6-93fc-40e2-86bb-07e6dca9d77c.png",
+      "deploy": "https://katlyn627.github.io/Coding-Quiz-Challenge/",
+      "github": "https://github.com/Katlyn627/Coding-Quiz-Challenge",
+      "topics": ""
     },
     {
       "id": 5,
-      "name": "Weather Dashboard",
-      "image": "",
-      "project": "A Weather Tracking App",
-      "location": "https://katlyn627.github.io/Weather-Dashboard/",
-      "github": "https://github.com/Katlyn627/Weather-Dashboard"
+      "name": "Tech Blog",
+      "image": "https://user-images.githubusercontent.com/86095070/156967851-cf449219-964c-4e07-b468-1036a93ffcb8.png",
+      "deploy": "https://katlyn627.github.io/Weather-Dashboard/",
+      "github": "https://github.com/Katlyn627/Weather-Dashboard",
+      "topics": ""
     },
     {
       "id": 6,
       "name": "Work Day Scheduler",
-      "image": "",
-      "project": "A Daily Agenda",
-      "location": "https://katlyn627.github.io/Work-Day-Scheduler/",
-      "github": "https://github.com/Katlyn627/Work-Day-Scheduler"
+      "image": "https://user-images.githubusercontent.com/86095070/156967919-7fda85d9-3155-4da0-9e02-1d5ad27b8618.png",
+      "deploy": "https://katlyn627.github.io/Work-Day-Scheduler/",
+      "github": "https://github.com/Katlyn627/Work-Day-Scheduler",
+      "topics": ""
     }
   ]
